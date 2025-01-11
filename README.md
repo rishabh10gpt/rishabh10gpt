@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Gupta!
 
-🌟 Welcome to my GitHub profile! I'm a tech enthusiast from India, with a passion for exploring and building small, personal projects that I truly enjoy.  
+🌟 Welcome to my GitHub profile! I'm a tech enthusiast from India, this profile is just for exploring and building small, personal projects that I truly enjoy.  
 
 📬 **Contact Me**  
 - **Email**: [rishabh10gpt@gmail.com](mailto:rishabh10gpt@gmail.com)  
