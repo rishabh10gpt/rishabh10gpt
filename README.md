@@ -25,7 +25,7 @@
 
 ## 🌟 **Personal Projects**  
 - 🔍 **AI-based : Identification and Segmentation**  
-  Developed a system for analyzing satellite images with enhanced accuracy.  
+  Worked on a system for analyzing images with enhanced accuracy.  
 
 - 🌐 **Multilingual Document Translation**  
   Worked on cutting-edge machine translation models to bridge language barriers.  
