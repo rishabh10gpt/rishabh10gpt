@@ -9,7 +9,7 @@
 
 ## 📚 **Education**  
 - **Master of Technology** in Computer Science (Specialization: Nuclear Engineering)  
-  *Homi Bhabha National Institute (2019 - 2022)*  
+  *Homi Bhabha National Institute (2019 - 2021)*  
 - **Bachelor of Technology** in Computer Science and Engineering  
   *IMS Engineering College, Ghaziabad (2015 - 2019)*  
 
@@ -40,7 +40,7 @@
 
 
 ---
-Feel free to explore my repositories for these and other small projects that I find fascinating.  
+Although i am working since 2019, i don't have any work related projects here. Feel free to explore my repositories for these and other small projects that I find fascinating.  
 
 ---
 
