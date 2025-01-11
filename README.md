@@ -32,6 +32,9 @@
 
 - 🚀 **HPC Optimization**  
   Interested in design and developement of HPC Software and Hardware Stack.
+
+
+---
 Feel free to explore my repositories for these and other small projects that I find fascinating.  
 
 ---
