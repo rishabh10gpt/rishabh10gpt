@@ -20,7 +20,7 @@
 - **Artificial Intelligence (AI) & Machine Learning (ML)**: NLP, Computer Vision, and model development with PyTorch  
 - **Programming**: Python, C/C++, and backend development with FastAPI and PostgreSQL  
 - **Web Development**: Experience with ElectronJS and crafting cross-platform applications
-- I have good understanding of *MPI*, *CUDA*, cluster resourse managers and schedulers (PBS, Slurm), provisioning softwares (xcat, warewulf), and visualization (nagios, grafana, with prometheus and elastic search)
+- I have good understanding of **MPI**, **CUDA**, cluster resourse managers and schedulers (**PBS**, **Slurm**), provisioning softwares (**xcat**, **warewulf**), and visualization (**nagios**, **grafana**, with **prometheus** and **elastic search**)
 
 ---
 
