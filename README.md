@@ -19,7 +19,7 @@
 - **High-Performance Computing (HPC)**: Design, optimization, and administration 
 - **Artificial Intelligence (AI) & Machine Learning (ML)**: NLP, Computer Vision, and model development with PyTorch  
 - **Programming**: Python, C/C++, and backend development with FastAPI and PostgreSQL  
-- **Web Development**: Experience with ElectronJS and crafting cross-platform applications
+- **Development**: Experience with ElectronJS and crafting cross-platform applications
 - **System Tools & Technologies**:  
   - MPI, CUDA  
   - Cluster resource managers and schedulers: PBS, Slurm  
