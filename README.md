@@ -23,7 +23,7 @@
 - **System Tools & Technologies**:  
   - MPI, CUDA  
   - Cluster resource managers and schedulers: PBS, Slurm  
-  - Provisioning software: xCAT, Warewulf  
+  - Provisioning software: xCAT, Warewulf, HPCM  
   - Monitoring and visualization tools: Nagios, Grafana (with Prometheus and Elasticsearch)  
 
 ---
