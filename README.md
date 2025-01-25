@@ -40,7 +40,7 @@
 
 
 ---
-Although i am working since 2019, i don't have any work related projects here. Feel free to explore my repositories for these and other small projects that I find fascinating.  
+I have just personal projects here. Feel free to explore my repositories for these and other small projects that I find fascinating.  
 
 ---
 
