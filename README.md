@@ -17,7 +17,7 @@
 
 ## 💡 **Skills & Interests**  
 - **High-Performance Computing (HPC)**: Design, optimization, and administration 
-- **Artificial Intelligence (AI) & Machine Learning (ML)**: NLP, Computer Vision, and model development with PyTorch  
+- **Artificial Intelligence (AI) & Machine Learning (ML)**: NLP, Computer Vision, and model development with Tensorflow and PyTorch  
 - **Programming**: Python, C/C++, and backend development with FastAPI and PostgreSQL  
 - **Development**: Experience with ElectronJS and crafting cross-platform applications
 - **System Tools & Technologies**:  
