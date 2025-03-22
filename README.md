@@ -44,5 +44,5 @@
 I have just personal projects here. Feel free to explore my repositories for these and other small projects that I find fascinating.  
 
 ---
-
+Exploring LLMs and agents at my ease.
 Thanks for visiting my profile! 😊
